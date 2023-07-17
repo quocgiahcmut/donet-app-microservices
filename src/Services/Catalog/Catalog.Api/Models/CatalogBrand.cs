@@ -1,4 +1,4 @@
-namespace Catalog.Api.Models;
+namespace dotnet.microservices.Services.Catalog.Api.Models;
 
 public class CatalogBrand
 {
